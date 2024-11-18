@@ -1,0 +1,107 @@
+<body>
+    <style>
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333;
+        }
+        
+        li {
+          float: left;
+        }
+        
+        li a, .dropbtn {
+          display: inline-block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        li a:hover, .dropdown:hover .dropbtn {
+          background-color: red;
+        }
+        
+        li.dropdown {
+          display: inline-block;
+        }
+        
+        .dropdown-content {
+          display: none;
+          position: absolute;
+          background-color: #f9f9f9;
+          min-width: 160px;
+          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          z-index: 1;
+        }
+        
+        .dropdown-content a {
+          color: black;
+          padding: 12px 16px;
+          text-decoration: none;
+          display: block;
+          text-align: left;
+        }
+        
+        .dropdown-content a:hover {background-color: #f1f1f1;}
+        
+        .dropdown:hover .dropdown-content {
+          display: block;
+        }
+        </style>
+        </head>
+        <body>
+        
+        <ul>
+          <li><a href="Inicio">Inicio</a></li>
+          <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">Cidades</a>
+            <div class="dropdown-content">
+              <a href="São Paulo capital">São Paulo capital</a>
+              <a href="Guarulhos">Guarulhos</a>
+              <a href="Sao VIcente">São Vicente</a>
+              <a href="Campinas">Campinas</a>
+              <a href="São Bernardo">São Bernardo do Campo</a>
+              <a href="Santo Andre">Santo Andre</a>
+              <a href="Franco da Rocha">Franco da Rocha</a>
+              <a href="Caieiras">Caieiras</a>
+              <a href="Francisco Morato">Francisco Morato</a>
+            </div>
+          </li>
+        </ul>
+    </body>
+<br>
+<b><Font face="arial" size="5">Hino de São Bernardo </FONT></b></h1>
+    <ol><p><Font face="arial" size="4">
+        Salve São Bernardo<br>
+Pedaço do meu Brasil<br>
+Retomas o teu velho posto<br>
+Impávido e varonil<br>
+<br>
+Salve São Bernardo<br>
+Do Campo e do nosso lar<br>
+Que vê o raiar da aurora<br>
+Dos Contrafortes da Serra do Mar<br>
+<br>
+Ó povo de São Bernardo<br>
+Salve a tua liberdade<br>
+A nossa bela Vila<br>
+Volta outra vez a ser a Cidade<br>
+<br>
+Alerta ó gente nossa<br>
+Tua canção vem entoar<br>
+Cantando a grande vitória<br>
+Que nossa terra acaba de alcançar<br>
+<br>
+Custou mas veio<br>
+A justa reparação<br>
+Nosso trabalho<br>
+Não foi em vão<br>
+<br>
+Custou mas veio<br>
+A justa reparação<br>
+Por isso é que no peito<br>
+Bate mais forte o nosso coração<br>
+<hr>
